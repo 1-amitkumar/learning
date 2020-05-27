@@ -14,3 +14,5 @@ console.log(array1.every(isBelowThreshold));
 for (const k of array1) {
     console.log(array1[k]);
 }
+something needed to be done in this js 
+cool
